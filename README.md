@@ -1,9 +1,7 @@
 # I'm Beginner C++/Java/JavaScript programmer!
-<hr>
 ### ⚡Alert ! Projects in this git are only fun-maded, there is no production repositories⚡
-<hr>
 ## Languages & Tools & Frameworks:
-- ![C++](https://img.shields.io/badge/-C++-090909?style=flat&)
+- ![C++](https://img.shields.io/badge/-C++-090909?style=flat)
     - `WinAPI`
     - `DirectX 9.0`
     - `Qt Framework`
@@ -13,7 +11,7 @@
     - `DetourHook`
     - `Dear ImGUI framework`
     - `std::threads`
-- ![Java](https://img.shields.io/badge/-Java-090909?style=flat&)
+- ![Java](https://img.shields.io/badge/-Java-090909?style=flat)
     - `Java SE`
     - `Java EE`
     - `Android SDK`
@@ -25,7 +23,7 @@
     - `JDBC/JPA/Hibernate ORM`
     - `Java Collections Framework`
     - `Java Reflection API`
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=flat&)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=flat)
     - `ECMAScript 5/6`
     - `React V.6`
     - `Vue V.3`
