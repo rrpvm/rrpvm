@@ -1,4 +1,4 @@
-# I'm Beginner Java/JavaSccript/C++ programmer!
+# I'm Beginner Java/JavaScript/C++ programmer!
 ### ⚡Alert ! Projects in this git are only fun-maded, there is no production repositories⚡
 ## Languages & Tools & Frameworks:
 - ![C++](https://img.shields.io/badge/-C++-090909?style=flat)
