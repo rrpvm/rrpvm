@@ -1,6 +1,6 @@
 # I'm Beginner Java/JavaScript/C++ programmer!
 ### ⚡Alert ! Projects in this git are only fun-maded, there is no production repositories⚡
-### ⚡Portfolio Java⚡
+### ⚡My Portfolio⚡
 - [RESTful Web Service (Advertise managment with logging) (Java/Spring Framework/React/TypeScript/MySQL)](https://github.com/rrpvm/spring_react-advertise-application-management)
 - [RESTful Web Application (Online shop) (Java/Spring Framework/React/TypeScript/PostgreSQL)](https://github.com/rrpvm/spring-dota_shop-react)
 - [Web Application (Chess) (Java/Spring Framework/React/TypeScript/PostgreSQL](https://github.com/rrpvm/react-typescript-chess-single)
