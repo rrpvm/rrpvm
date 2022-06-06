@@ -10,8 +10,10 @@
     - [Android term work (Java/Android SDK/JSON(data))](https://github.com/rrpvm/android-term-work-goverment-manager)
 - C++(WinAPI,D3D9,GDI,QT)
     - [CS:GO cheat (C++/WinAPI/Detours/VMT hooks/Direct3D9/Dear ImGui/Reverse engineering/assember/pattern scanning)](https://github.com/rrpvm/lumen_sense-beta-deprecated-)
-    - [CS:GO external cheat (C++/WinAPI/Direct3D9/Dear ImGui)](https://github.com/rrpvm/csgo-external-cheat)
+    - [GLUT: Multithreading particle system](https://github.com/rrpvm/multithreading-particle-system-glut)
+    - [CS:GO External cheat (C++/WinAPI/Direct3D9/Dear ImGui)](https://github.com/rrpvm/csgo-external-cheat)
     - [WIN: Wallpaper Animator(Graphics) (C++/D3D9/WinAPI)](https://github.com/rrpvm/d3d9-animation-wallpapers)
+   
 ## Languages & Tools & Frameworks:
 - ![Java](https://img.shields.io/badge/-Java-090909?style=flat)
     - `Java SE`
