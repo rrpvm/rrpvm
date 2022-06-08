@@ -1,4 +1,4 @@
-# I'm Beginner Java/JavaScript/C++ programmer!
+# I'm Junior C++/Java/JS programmer!
 ### ⚡Alert ! Projects in this git are only fun-maded, there is no production repositories⚡
 ### ⚡My Portfolio⚡
 - Java + TypeScript(React)
