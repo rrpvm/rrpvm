@@ -7,9 +7,10 @@
 - Java
     - [GUI Calculator based on reverse polish notation (Java FX/JDBC/JUnit)](https://github.com/rrpvm/javafx-calculator)
     - [Android term work (Java/Android SDK/JSON(data))](https://github.com/rrpvm/android-term-work-goverment-manager)
-- C++(WinAPI,D3D9,GDI,QT)
+- C++(QT,WinAPI,D3D9/OpenGL)
     - [CS:GO cheat (C++/WinAPI/Detours/VMT hooks/Direct3D9/Dear ImGui/Reverse engineering/assember/pattern scanning)](https://github.com/rrpvm/lumen_sense-beta-deprecated-)
     - [CS:GO External cheat (C++/WinAPI/Direct3D9/Dear ImGui)](https://github.com/rrpvm/csgo-external-cheat)
+    - [WIN APP: Multithreading array's sorting visualizer (C++/std::threads,atomic/SFML)](https://github.com/rrpvm/sfml_array_sorting_visualizer)
     - [WIN APP: Multithreading particle system (C++/std::threads,atomic/OpenGL/GLUT)](https://github.com/rrpvm/multithreading-particle-system-glut)
     - [WIN APP: Wallpaper Animator(Graphics) (C++/D3D9/WinAPI)](https://github.com/rrpvm/d3d9-animation-wallpapers)
    
