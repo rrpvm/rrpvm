@@ -30,8 +30,9 @@
     - `Java Reflection API`
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=flat)
     - `ECMAScript 5/6`
-    - `React V.6`
-    - `Vue V.3`
+    - `React`
+    - `Vue`
+    - `Canvas technology, Axios, Redux, RTK query`
 - ![C++](https://img.shields.io/badge/-C++-090909?style=flat)
     - `WinAPI`
     - `DirectX 9.0`
@@ -42,6 +43,7 @@
     - `Dear ImGUI framework`
     - `std::threads`
     - `STL Containers`
+    - `SFML`
 - Technologies:
     - `REST`
     - `SOAP`
@@ -50,6 +52,7 @@
     - `Mockito`
     - `Maven`
     - `Docker`
+    - `Kafka`
 - SQL:
     - `MySQL`
     - `PostgreSQL`
