@@ -1,9 +1,10 @@
-# I'm Junior C++/Java/JS programmer!
+# I'm Junior C++/Java/Kotlin/JS programmer!
 ### ⚡Alert ! Projects in this git are only fun-maded, there is no production repositories⚡
 ### ⚡My Portfolio⚡
 - Java + TypeScript(React)
     - [RESTful Web Service (Advertise managment with logging) (Java/Spring Framework/React/TypeScript/MySQL)](https://github.com/rrpvm/spring_react-advertise-application-management)
     - [RESTful Web Application (Online shop) (Java/Spring Framework/React/TypeScript/PostgreSQL)](https://github.com/rrpvm/spring-dota_shop-react)
+    - [other] - commerical production
 - Java
     - [GUI Calculator based on reverse polish notation (Java FX/JDBC/JUnit)](https://github.com/rrpvm/javafx-calculator)
     - [Android term work (Java/Android SDK/JSON(data))](https://github.com/rrpvm/android-term-work-goverment-manager)
@@ -19,6 +20,7 @@
     - `Java SE`
     - `Java EE`
     - `Android SDK`
+    - `Retrofit/OkHttp3/Dagger/Hilt/RxJava`
     - `Spring Framework`
         - `Spring Core`
         - `Spring Boot`
