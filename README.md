@@ -1,13 +1,12 @@
-# I'm Junior C++/Java/Kotlin/JS programmer!
-### ⚡Alert ! Projects in this git are only fun-maded, there is no production repositories⚡
-### ⚡My Portfolio⚡
-- Java + TypeScript(React)
+# I'm Java(Kotlin)/JavaScript/C++ programmer!
+### My Portfolio
+- (Android): Kotlin : [web app](https://play.google.com/store/apps/details?id=com.softweather.qrme)
+- (WEB): Spring + TypeScript(React)
     - [RESTful Web Service (Advertise managment with logging) (Java/Spring Framework/React/TypeScript/MySQL)](https://github.com/rrpvm/spring_react-advertise-application-management)
     - [RESTful Web Application (Online shop) (Java/Spring Framework/React/TypeScript/PostgreSQL)](https://github.com/rrpvm/spring-dota_shop-react)
     - [other] - commerical production
 - Java
     - [GUI Calculator based on reverse polish notation (Java FX/JDBC/JUnit)](https://github.com/rrpvm/javafx-calculator)
-    - [Android term work (Java/Android SDK/JSON(data))](https://github.com/rrpvm/android-term-work-goverment-manager)
 - C++(QT,WinAPI,D3D9/OpenGL)
     - [CS:GO cheat (C++/WinAPI/Detours/VMT hooks/Direct3D9/Dear ImGui/Reverse engineering/assember/pattern scanning)](https://github.com/rrpvm/lumen_sense-beta-deprecated-)
     - [CS:GO External cheat (C++/WinAPI/Direct3D9/Dear ImGui)](https://github.com/rrpvm/csgo-external-cheat)
