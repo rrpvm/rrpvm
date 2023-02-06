@@ -1,7 +1,7 @@
 # I'm Java(Kotlin)/JavaScript/C++ programmer!
 ### My Portfolio
 - (Android): Kotlin : [web app](https://play.google.com/store/apps/details?id=com.softweather.qrme)
-- (WEB): Spring + TypeScript(React)
+- (WEB Java back-end): Spring + TypeScript(React)
     - [RESTful Web Service (Advertise managment with logging) (Java/Spring Framework/React/TypeScript/MySQL)](https://github.com/rrpvm/spring_react-advertise-application-management)
     - [RESTful Web Application (Online shop) (Java/Spring Framework/React/TypeScript/PostgreSQL)](https://github.com/rrpvm/spring-dota_shop-react)
     - [other] - commerical production
