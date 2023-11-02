@@ -1,4 +1,4 @@
-# I'm Java(Kotlin)/JavaScript/C++ programmer!
+# I'm Android Developer
 ### My Portfolio
 - (Android): Kotlin : [social app](https://play.google.com/store/apps/details?id=com.softweather.qrme)
 - (Android): Java(by requirements) : [test app for Eltext Company, example project](https://github.com/rrpvm/EltexTestAuthApplication)
@@ -16,6 +16,10 @@
     - [WIN APP: Wallpaper Animator(Graphics) (C++/D3D9/WinAPI)](https://github.com/rrpvm/d3d9-animation-wallpapers)
    
 ## Languages & Tools & Frameworks:
+- Kotlin
+      - `Coroutines`
+      - `Jetpack Compose`
+      - `Clean Architecture`
 - ![Java](https://img.shields.io/badge/-Java-090909?style=flat)
     - `Java SE`
     - `Java EE`
